@@ -1,7 +1,7 @@
 # ** HUMNINO411**
 ## I am Humble Obot, studied Mechanical Engineering, and I've been a secondary school mathematics teacher for almost a decade...
 ### My love for mathematics and logics makes coding endearing to me, and I must admit-its now my newly found love
-#### I delved into data science, and My first few Months, learning how to code in python has proven beyond doubt that I have the inate ability to understand and interract successfully with these amazing machines
+#### I delved into data science, and My first few Months, learning how to code in python has proven beyond doubt that I have the innate ability to understand and interact successfully with these amazing machines
 ##### I'm ready to work with you, try my hands in some data analysis projects so as to build my competency level
 
 ########## **"MY QUOTES:**
